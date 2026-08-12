@@ -1,0 +1,10 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Project-specific
+data/raw/
+data/incidents.json

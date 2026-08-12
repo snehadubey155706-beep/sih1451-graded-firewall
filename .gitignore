@@ -1,2 +1,15 @@
+<<<<<<< HEAD
 venv/ 
 data/raw/ 
+=======
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Project-specific
+data/raw/
+data/incidents.json
+>>>>>>> e23ad4a3dc4e49472f118edb175f648b4e46e273
